@@ -4,7 +4,6 @@
 #ask user these questions and store answers
 
 
-
 first_name = input("What is your name?")
 car_brand = input("What is your favorite car brand?")
 fav_color = input("What is your favorite color?")
